@@ -1,6 +1,9 @@
-[logo]: https://github.com/CancerDataNet-OIS/CDN-OIS-Resources/images/CDN.png "CDN Logo"
+[logo]: https://github.com/CancerDataNet-OIS/CDN-OIS-Resources/tree/main/images/CDN.png "CDN Logo"
 
-[logo]: https://github.com/CancerDataNet-OIS/CDN-OIS-Resources/images/OIS.png "OIS Logo"
+[logo]: https://github.com/CancerDataNet-OIS/CDN-OIS-Resources/tree/main/images/OIS.png "OIS Logo"
+
+
+![alt text](https://github.com/CancerDataNet-OIS/CDN-OIS-Resources/tree/main/images/OIS.png?raw=true)
 
 # CDN-OIS-Resources
 
