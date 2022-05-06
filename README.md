@@ -1,2 +1,3 @@
-# CDN-OIS-Wiki
-Wiki page for CancerDataNet/ OIS useful cheatsheets and more.
+# CDN-OIS-Resources
+
+Documentation of helpful tools, commands, cheatsheets and more that help you to work with CDN/OIS projects.
